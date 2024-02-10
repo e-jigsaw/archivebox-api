@@ -1,5 +1,5 @@
 {
-  "name": "archivebox-api",
+  "name": "arcsync",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
